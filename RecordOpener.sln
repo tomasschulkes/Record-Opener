@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordOpener", "RecordOpener\RecordOpener.csproj", "{64898379-74D9-4C78-B9F4-F085F2FECE1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "XrmToolbox", "XrmToolbox", "{725095E9-5B63-4D46-B1A3-817D92F7B5C9}"
+	ProjectSection(SolutionItems) = preProject
+		XrmToolbox\McTools.StopAdvertisement.dll = XrmToolbox\McTools.StopAdvertisement.dll
+		XrmToolbox\McTools.Xrm.Connection.dll = XrmToolbox\McTools.Xrm.Connection.dll
+		XrmToolbox\McTools.Xrm.Connection.WinForms.dll = XrmToolbox\McTools.Xrm.Connection.WinForms.dll
+		XrmToolbox\Microsoft.Crm.Sdk.Proxy.dll = XrmToolbox\Microsoft.Crm.Sdk.Proxy.dll
+		XrmToolbox\Microsoft.IdentityModel.Clients.ActiveDirectory.dll = XrmToolbox\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+		XrmToolbox\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll = XrmToolbox\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+		XrmToolbox\Microsoft.IdentityModel.dll = XrmToolbox\Microsoft.IdentityModel.dll
+		XrmToolbox\Microsoft.Web.XmlTransform.dll = XrmToolbox\Microsoft.Web.XmlTransform.dll
+		XrmToolbox\Microsoft.Xrm.Sdk.Deployment.dll = XrmToolbox\Microsoft.Xrm.Sdk.Deployment.dll
+		XrmToolbox\Microsoft.Xrm.Sdk.dll = XrmToolbox\Microsoft.Xrm.Sdk.dll
+		XrmToolbox\Microsoft.Xrm.Sdk.Workflow.dll = XrmToolbox\Microsoft.Xrm.Sdk.Workflow.dll
+		XrmToolbox\Microsoft.Xrm.Tooling.Connector.dll = XrmToolbox\Microsoft.Xrm.Tooling.Connector.dll
+		XrmToolbox\NuGet.Core.dll = XrmToolbox\NuGet.Core.dll
+		XrmToolbox\XrmToolBox.AutoUpdater.exe = XrmToolbox\XrmToolBox.AutoUpdater.exe
+		XrmToolbox\XrmToolBox.exe = XrmToolbox\XrmToolBox.exe
+		XrmToolbox\XrmToolBox.exe.config = XrmToolbox\XrmToolBox.exe.config
+		XrmToolbox\XrmToolBox.Extensibility.dll = XrmToolbox\XrmToolBox.Extensibility.dll
+		XrmToolbox\XrmToolBox.Settings.xml = XrmToolbox\XrmToolBox.Settings.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64898379-74D9-4C78-B9F4-F085F2FECE1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64898379-74D9-4C78-B9F4-F085F2FECE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64898379-74D9-4C78-B9F4-F085F2FECE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64898379-74D9-4C78-B9F4-F085F2FECE1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
